@@ -1,0 +1,179 @@
+{
+  "source": "https://www.fortnite.com/news/tag/all-news.data",
+  "locale": "ja",
+  "count": 12,
+  "articles": [
+    {
+      "title": "ワールドを構築し、絆を深めよう：フォートナイト バディがあなたの島で NPC として利用可能になりました",
+      "link": "https://www.fortnite.com/news/build-worlds-build-bonds-fortnite-sidekicks-now-available-as-npcs-for-your-islands",
+      "image": "https://cms-assets.unrealengine.com/cm6l5gfpm05kr07my04cqgy2x/cmq142ezo35i307oce5rmnmth",
+      "imageAlt": "",
+      "tags": [
+        {
+          "tagId": "fortnite-uefn-and-creative",
+          "label": "UEFNとクリエイティブ"
+        }
+      ],
+      "date": "2026年6月05日"
+    },
+    {
+      "title": "フォートナイト: ランナーの新マップで精霊を抽出しよう",
+      "link": "https://www.fortnite.com/news/extract-and-collect-sprites-on-a-new-map-in-fortnite-runners",
+      "image": "https://cms-assets.unrealengine.com/cm6l5gfpm05kr07my04cqgy2x/cmq195hk97doc07mqsnprttzv",
+      "imageAlt": "",
+      "tags": [
+        {
+          "tagId": "ranked",
+          "label": "ランクバトルロイヤル"
+        },
+        {
+          "tagId": "battle-royale",
+          "label": "バトルロイヤル"
+        }
+      ],
+      "date": "2026年6月05日"
+    },
+    {
+      "title": "FNCSのスケジュールと競技モードの最新情報",
+      "link": "https://www.fortnite.com/news/fncs-schedule-and-competitive-updates",
+      "image": "https://cms-assets.unrealengine.com/cm6l5gfpm05kr07my04cqgy2x/cmppxvh6p1e9u07n7q6tmju5q",
+      "imageAlt": "",
+      "tags": [
+        {
+          "tagId": "ranked",
+          "label": "ランクバトルロイヤル"
+        },
+        {
+          "tagId": "fortnite-competitive",
+          "label": "Fortnite Competitive"
+        },
+        {
+          "tagId": "reload",
+          "label": "リロード"
+        }
+      ],
+      "date": "2026年5月29日"
+    },
+    {
+      "title": "フォートナイト シャッタード ライブイベント 6月6日午前8時(日本時間)",
+      "link": "https://www.fortnite.com/news/fortnite-shattered-end-of-season-live-event-june-5-7-pm-et",
+      "image": "https://cms-assets.unrealengine.com/cm6l5gfpm05kr07my04cqgy2x/cmpvkxbniai5j07n7zhpznedw",
+      "imageAlt": "",
+      "tags": [
+        {
+          "tagId": "battle-royale",
+          "label": "バトルロイヤル"
+        }
+      ],
+      "date": "2026年5月29日"
+    },
+    {
+      "title": "ヒーローたちよ、結集せよ: オーバーウォッチのヒーローがショーダウンの第3幕に参戦",
+      "link": "https://www.fortnite.com/news/answer-the-call-overwatch-heroes-join-the-showdown-in-act-iii",
+      "image": "https://cms-assets.unrealengine.com/cm6l5gfpm05kr07my04cqgy2x/cmp5j0go113fs07ofsa482ac2",
+      "imageAlt": "",
+      "tags": [
+        {
+          "tagId": "battle-royale",
+          "label": "バトルロイヤル"
+        }
+      ],
+      "date": "2026年5月14日"
+    },
+    {
+      "title": "史上最大規模で、銀河に広がるスター・ウォーズの新作ゲームがフォートナイトに登場",
+      "link": "https://www.fortnite.com/news/a-galaxy-of-new-star-wars-games-are-coming-to-fortnite-more-than-ever-before",
+      "image": "https://cms-assets.unrealengine.com/cm6l5gfpm05kr07my04cqgy2x/cmolfhff10ay707oe7ndiknkg",
+      "imageAlt": "",
+      "tags": [
+        {
+          "tagId": "fortnite-uefn-and-creative",
+          "label": "UEFNとクリエイティブ"
+        }
+      ],
+      "date": "2026年4月30日"
+    },
+    {
+      "title": "ディスカバリーに大きな変更",
+      "link": "https://www.fortnite.com/news/big-changes-for-discover",
+      "image": "https://cms-assets.unrealengine.com/cm6l5gfpm05kr07my04cqgy2x/cmobn087sd67807oc8iucb3zk",
+      "imageAlt": "",
+      "tags": [
+        {
+          "tagId": "fortnite-uefn-and-creative",
+          "label": "UEFNとクリエイティブ"
+        }
+      ],
+      "date": "2026年4月23日"
+    },
+    {
+      "title": "フォートナイト リロード: エリートの拠点でエリートに名を連ねよう",
+      "link": "https://www.fortnite.com/news/join-the-elites-in-fortnite-reload-elite-stronghold",
+      "image": "https://cms-assets.unrealengine.com/cm6l5gfpm05kr07my04cqgy2x/cmo71osn8nh1i08mzuknw8k8r",
+      "imageAlt": "",
+      "tags": [
+        {
+          "tagId": "ranked",
+          "label": "ランクバトルロイヤル"
+        },
+        {
+          "tagId": "reload",
+          "label": "リロード"
+        }
+      ],
+      "date": "2026年4月20日"
+    },
+    {
+      "title": "AI による Conversations (会話) で NPC に命を吹き込みましょう",
+      "link": "https://www.fortnite.com/news/bring-npcs-to-life-with-ai-powered-conversations",
+      "image": "https://cms-assets.unrealengine.com/cm6l5gfpm05kr07my04cqgy2x/cmnyptil7h4ya07oez2om25mt",
+      "imageAlt": "",
+      "tags": [
+        {
+          "tagId": "fortnite-uefn-and-creative",
+          "label": "UEFNとクリエイティブ"
+        }
+      ],
+      "date": "2026年4月16日"
+    },
+    {
+      "title": "LaufeyがFortnite Festival シーズン14の主役に",
+      "link": "https://www.fortnite.com/news/laufeys-distinct-sound-headlines-fortnite-festival-season-14",
+      "image": "https://cms-assets.unrealengine.com/cm6l5gfpm05kr07my04cqgy2x/cmnyyxkw8kra007o5ndw6fr8k",
+      "imageAlt": "",
+      "tags": [
+        {
+          "tagId": "fortnite-festival",
+          "label": "Fortnite Festival"
+        }
+      ],
+      "date": "2026年4月15日"
+    },
+    {
+      "title": "フォートナイト アリーナで栄光をつかもう",
+      "link": "https://www.fortnite.com/news/chase-greatness-in-fortnite-arenas",
+      "image": "https://cms-assets.unrealengine.com/cm6l5gfpm05kr07my04cqgy2x/cmnomvflf0v9807oanzdrp4uk",
+      "imageAlt": "",
+      "tags": [
+        {
+          "tagId": "ranked",
+          "label": "ランクバトルロイヤル"
+        }
+      ],
+      "date": "2026年4月07日"
+    },
+    {
+      "title": "フォートナイト デベロッパー向けスター・ウォーズ™ ツールがリリースされました—オリジナルの銀河の創作を始めましょう",
+      "link": "https://www.fortnite.com/news/star-wars-tools-now-live-for-fortnite-developers-create-your-galaxy-today",
+      "image": "https://cms-assets.unrealengine.com/cm6l5gfpm05kr07my04cqgy2x/cmmweh4ur1w4m06oieyw61a8o",
+      "imageAlt": "",
+      "tags": [
+        {
+          "tagId": "fortnite-uefn-and-creative",
+          "label": "UEFNとクリエイティブ"
+        }
+      ],
+      "date": "2026年4月01日"
+    }
+  ]
+}
